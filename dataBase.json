@@ -1,0 +1,89 @@
+{
+  "componentsData":[
+    {
+     "Component": " ultrasonic sensor with bracket",
+     "priceFor1": 77,
+     "Quantity": 6,
+     "Column4": 462,
+     "link": "https:\/\/robu.in\/product\/hc-sr04-ultrasonic-range-finder-cartoon-ultrasonic-sensor-mounting-bracket\/"
+    },
+    {
+     "Component": "RP camera",
+     "priceFor1": 3910,
+     "Quantity": 1,
+     "Column4": 3910,
+     "link": "https:\/\/www.silverlineelectronics.in\/products\/test-6?_pos=1&_sid=52b564b23&_ss=r&src=raspberrypi"
+    },
+    {
+     "Component": "lidar laser sensor",
+     "priceFor1": 279,
+     "Quantity": 1,
+     "Column4": 279,
+     "link": "https:\/\/robu.in\/product\/vl53l0x-tof-based-lidar-laser-distance-sensor\/"
+    },
+    {
+     "Component": "battery ,BMS, charger, voltage regulator",
+     "Quantity": 1,
+     "Column4": "5000(approx)",
+     "link": "not decided"
+    },
+    {
+     "Component": "raspberry pi pico ",
+     "priceFor1": 350,
+     "Quantity": 2,
+     "Column4": 700,
+     "link": "https:\/\/robu.in\/product\/raspberry-pi-pico\/"
+    },
+    {
+     "Component": "solar pannels (optional)",
+     "priceFor1": 156,
+     "Quantity": 2,
+     "Column4": 312,
+     "link": "https:\/\/robu.in\/product\/0-45w-3v-150ma-mini-solar-panel-8x6-cm\/"
+    },
+    {
+     "Component": "display",
+     "priceFor1": 2500,
+     "Quantity": 1,
+     "Column4": 2500,
+     "link": "https:\/\/robu.in\/product\/waveshare-3-2inch-hdmi-ips-lcd-display-h-480x800-adjustable-brightness-no-touch\/"
+    },
+    {
+     "Component": "accelorometer,magnetometer,gyroscope",
+     "priceFor1": 1500,
+     "Quantity": 1,
+     "Column4": 1500,
+     "link": "https:\/\/robu.in\/product\/dfrobot-fermion-bmx160-9-axis-sensor-breakout\/"
+    },
+    {
+     "Component": "modem for internet",
+     "priceFor1": 2300,
+     "Quantity": 1,
+     "Column4": 2300,
+     "link": "https:\/\/www.amazon.in\/Support-150Mbps-Hotspot-Premium-QUALCOMM\/dp\/B09T3TDM1N\/ref=sr_1_5?keywords=lte%2Bmodem%2Busb&qid=1682864642&sr=8-5&th=1"
+    },
+    {
+     "Component": "gps module",
+     "priceFor1": 270,
+     "Quantity": 1,
+     "Column4": 270,
+     "link": "https:\/\/robu.in\/product\/ublox-neo-6m-gps-module\/"
+    },
+    {
+     "Component": "drone kit",
+     "Column4": "25000(approx)",
+     "link": " not decided",
+     "Column6": " "
+    },
+    {
+     "Component": "raspberry pi 4b 8gb ram",
+     "priceFor1": 7769,
+     "Quantity": 1,
+     "Column4": 7769
+    },
+    {
+     "Component": "total",
+     "Column4": 50002
+    }
+   ]
+}
